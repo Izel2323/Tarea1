@@ -2,3 +2,48 @@ body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
 }
+
+
+body {
+    font-family: Arial, sans-serif; /* Puedes cambiar la familia a tu gusto */
+    font-size: 16px;
+}
+
+
+header {
+    background-color: #2c3e50;
+}
+
+/* Regla para la navegación */
+nav {
+    background-color: #34495e; /* Un tono ligeramente distinto al header */
+}
+
+
+main {
+    background-color: #ecf0f1;
+    font-size: 1.1em;
+}
+
+
+footer {
+    background-color: #7f8c8d;
+}
+
+
+li {
+    display: inline-block; /* Los alinea uno al lado del otro */
+    width: 150px;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2980b9;
+}
+
+
+p {
+    line-height: 1.6; /* Mejora la legibilidad del texto */
+}
